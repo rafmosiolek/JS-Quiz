@@ -19,7 +19,7 @@ function submitAnswers() {
     }
 
     // Set Correct Answers
-    var answers = ["b", "a", "d", "b", "d"];
+    var answers = ["b", "c", "d", "a", "b"];
 
     // Check the answers
     for(i=1; i<=total; i++) {
